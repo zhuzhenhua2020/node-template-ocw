@@ -139,10 +139,3 @@ const HTTP_REMOTE_REQUEST_DOT_PRICE: &str = "https://api.coincap.io/v2/assets/po
             Ok(price_tuple)
         }
 ```
-## 完整代码
-[https://gitee.com/vicowong/node-template-ocw/blob/master/04-ocw/assignment/pallets/ocw/src/lib.rs](https://gitee.com/vicowong/node-template-ocw/blob/master/04-ocw/assignment/pallets/ocw/src/lib.rs)
-
-## 运行截图
-![运行截图1](https://gitee.com/vicowong/node-template-ocw/raw/master/04-ocw/assignment/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE1.png "运行截图1")
-![运行截图2](https://gitee.com/vicowong/node-template-ocw/raw/master/04-ocw/assignment/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE2.png "运行截图2")
-![运行截图3](https://gitee.com/vicowong/node-template-ocw/raw/master/04-ocw/assignment/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE3.png "运行截图3")
